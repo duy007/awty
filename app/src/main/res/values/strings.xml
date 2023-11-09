@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">awty</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="toast_message">Texting %s\n %s</string>
+    <string name="please_fill_all_fields">Please fill all fields correctly</string>
+</resources>
